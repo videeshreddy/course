@@ -2,7 +2,7 @@
 <head>
   <title>Skills Development</title>
 </head>
-<body  bgcolor="Green"></body>
+<body  bgcolor="Yellow"></body>
   <h1><marquee bgcolor=green> 
 <font color=red>
 ONLINE TRAINING  </font>
